@@ -11,6 +11,7 @@
 		2D7455DC26658E5400A9970C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7455DB26658E5400A9970C /* ContentView.swift */; };
 		2D7455DE26658E5800A9970C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D7455DD26658E5800A9970C /* Assets.xcassets */; };
 		2D7455E126658E5800A9970C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D7455E026658E5800A9970C /* Preview Assets.xcassets */; };
+		2D7455E92665C0AB00A9970C /* ByeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7455E82665C0AB00A9970C /* ByeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		2D7455DD26658E5800A9970C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D7455E026658E5800A9970C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2D7455E226658E5800A9970C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D7455E82665C0AB00A9970C /* ByeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ByeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				2D7455D926658E5400A9970C /* FirstAppApp.swift */,
 				2D7455DB26658E5400A9970C /* ContentView.swift */,
+				2D7455E82665C0AB00A9970C /* ByeView.swift */,
 				2D7455DD26658E5800A9970C /* Assets.xcassets */,
 				2D7455E226658E5800A9970C /* Info.plist */,
 				2D7455DF26658E5800A9970C /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D7455E92665C0AB00A9970C /* ByeView.swift in Sources */,
 				2D7455DC26658E5400A9970C /* ContentView.swift in Sources */,
 				2D7455DA26658E5400A9970C /* FirstAppApp.swift in Sources */,
 			);

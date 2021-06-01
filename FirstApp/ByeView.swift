@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  ByeView.swift
 //  FirstApp
 //
 //  Created by Trey Campbell on 5/31/21.
@@ -7,15 +7,14 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ByeView: View {
     var body: some View {
-        ByeView()
-          .padding()
+        Text("Bye bye, World!")
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct ByeView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ByeView()
     }
 }
